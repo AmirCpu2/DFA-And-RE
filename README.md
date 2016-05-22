@@ -50,17 +50,20 @@
     </p>
 
     <p align="center">
-        <strong align="right">
-            مثال اول :
-        </strong>
-
+        <div  align="right">
+            <strong>
+                مثال اول :
+            </strong>
+        </div>
         <strong>
             <img src="http://www.mediafire.com/convkey/1875/x6kn9z1501h54i5zg.jpg" border="0" alt="image1" style="width:100%" />
         </strong>
 
-        <strong align="right">
-            مثال دوم :
-        </strong>
+         <div  align="right">
+            <strong>
+                مثال دوم :
+            </strong>
+        </div>
 
         <img src="http://www.mediafire.com/convkey/0ad7/q88lg4whdtxhz86zg.jpg" border="0" alt="image1" style="width:100%" />
     </p>
