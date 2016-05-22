@@ -1,7 +1,10 @@
 ﻿<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 
 <div lang="fa" dir="rtl" style="font-family: 'Oswald', sans-serif;">
-    <h1>وارد کردن ماشین DFA و عبارت منظم</h1>
+    <h1  align="center">
+        وارد کردن ماشین DFA و عبارت منظم
+    </h1>
+   
     <p>
         <strong>
             توضیحات:
